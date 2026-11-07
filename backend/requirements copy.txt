@@ -1,0 +1,8 @@
+sqlalchemy
+pymysql
+python-dotenv
+groq
+fastapi
+uvicorn
+sqlglot
+pandas
